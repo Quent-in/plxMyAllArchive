@@ -1,0 +1,32 @@
+<?php
+$LANG = array(
+'L_PAGE_TITLE'				=> 'Lista dels archius',
+'L_NO_ARTICLE'				=> 'Pas cap d\'article',
+# config.php
+'L_MAIN'					=> 'General',
+'L_MENU_DISPLAY'			=> 'Afichar lo menú de la pagina dels archius dins la lista de las paginas estaticas',
+'L_MENU_TITLE'		    	=> 'Títol del menú',
+'L_MENU_POS'		    	=> 'Posicion del menú  dins la lista de las paginas estaticas',
+'L_MENU_SORT_BY'			=> 'Afichatge dels archius per',
+'L_MENU_SORT'				=> 'Tria dels articles per data',
+'L_MENU_FORMAT'				=> 'Format d\'afichatge :<br />#art_date: data<br />#art_link: ligam de l\'article<br />#art_author: autor',
+'L_MENU_EXCLUDE_CATEGORIES'	=> 'Exclure aquestas categorias dels archius',
+'L_MENU_TEMPLATE'			=> 'Modèls',
+'L_URL'						=> 'Paramètre de l\'url',
+'L_SAVE'					=> 'Enregistrar',
+'L_DEFAULT_MENU_NAME'		=> 'Archius',
+'L_DEFAULT_FORMAT'			=> '#art_date : #art_link par #art_author',
+'L_SORT_BY_YEAR'			=> 'annada',
+'L_SORT_BY_CATEGORY'		=> 'categoria',
+'L_SORT_BY_AUTHOR'			=> 'autor',
+'L_SORT_BY_TITLE'			=> 'títol',
+'L_SORT_DESCENDING_DATE'	=> 'descendenta',
+'L_SORT_ASCENDING_DATE'		=> 'ascendenta',
+'L_HELP1'					=> 'Còdi a apondre dins lo tèma per afichar lo ligam dedicat als archius',
+'L_HELP2'					=> 'Paramètres per personalizar l\'afichatge dins lo tèma del ligam dedicat als archius',
+'L_HELP3'					=> 'Sintaxi per precisar lo tipe d\èafichatge e la tria',
+'L_BY'						=> 'per',
+'L_EXAMPLE'					=> 'Exemple',
+'L_MY_ARCHIVES'				=> 'Mos archius',
+);
+?>
